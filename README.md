@@ -1,5 +1,13 @@
 # HFSS_dipole_antenna
 
+Author : 林奎良(KuiLiang Lin), 王廷瑋
+
+Director : Professor 廖文照 
+
+This project was hold at National Taiwan University and Science and Technology, 2013.
+
+Content below is only a small part of the project.
+
 1. Abstract
 
    天線基本上可以分成兩大類型,全像天線與指向天線，在自由空間內，任何天線都向各個方向輻射能量，但是特定的架構會使天線在某個方向上獲得較大方向性，而其它方向的能量輻射則可以忽略
