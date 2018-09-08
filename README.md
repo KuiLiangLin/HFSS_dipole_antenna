@@ -1,5 +1,7 @@
 # HFSS_dipole_antenna
 
+<hr>
+
 Author : 林奎良(KuiLiang Lin), 王廷瑋
 
 Director : Professor 廖文照 
@@ -26,33 +28,33 @@ Content below is only a small part of the project.
    
    Basic
 
-   ![image](https://github.com/KuiLiangLin/HFSS_dipole_antenna/blob/master/HFSS_structure_1.jpg)
+   <img src="https://raw.githubusercontent.com/KuiLiangLin/HFSS_dipole_antenna/master/HFSS_structure_1.jpg" height="100%" width="100%" >
    
    Cross Balun Dipole Antenna
    
-   ![image](https://github.com/KuiLiangLin/HFSS_dipole_antenna/blob/master/HFSS_structure_2.jpg)
+   <img src="https://raw.githubusercontent.com/KuiLiangLin/HFSS_dipole_antenna/master/HFSS_structure_2.jpg" height="100%" width="100%" >
    
    Cross Dipole Antenna
 
-   ![image](https://github.com/KuiLiangLin/HFSS_dipole_antenna/blob/master/HFSS_structure_3.jpg)
+   <img src="https://raw.githubusercontent.com/KuiLiangLin/HFSS_dipole_antenna/master/HFSS_structure_3.jpg" height="100%" width="100%" >
    
 3. HFSS - S parameter
 
    S11 - 頻寬為0.9GHz~ 0.96GHz，中心頻率為0.93GHz，頻寬率百分比為6.5%
    
-   ![image](https://github.com/KuiLiangLin/HFSS_dipole_antenna/blob/master/S11.jpg)
+   <img src="https://raw.githubusercontent.com/KuiLiangLin/HFSS_dipole_antenna/master/S11.jpg" height="100%" width="100%" >
     
    S12- 頻寬為0.89GHz~ 0.96GHz，中心頻率為0.93GHz。頻寬率百分比為7.5%
    
-   ![image](https://github.com/KuiLiangLin/HFSS_dipole_antenna/blob/master/S12.jpg)
+   <img src="https://raw.githubusercontent.com/KuiLiangLin/HFSS_dipole_antenna/master/S12.jpg" height="100%" width="100%" >
 
    S11 with Balun - S11與S22的頻寬約為0.87GHz~ 0.97GHz，中心頻率約為0.92GHz
    
-   ![image](https://github.com/KuiLiangLin/HFSS_dipole_antenna/blob/master/B_S11.jpg)
+   <img src="https://raw.githubusercontent.com/KuiLiangLin/HFSS_dipole_antenna/master/B_S11.jpg" height="100%" width="100%" >
    
    S12 with Balun - -30dB以下頻寬0.6GHz~0.9GHz中心頻率0.75GHz
    
-   ![image](https://github.com/KuiLiangLin/HFSS_dipole_antenna/blob/master/B_S12.jpg)
+   <img src="https://raw.githubusercontent.com/KuiLiangLin/HFSS_dipole_antenna/master/B_S12.jpg" height="100%" width="100%" >
    
 4. Far Field Gain with Balun
    
@@ -62,15 +64,15 @@ Content below is only a small part of the project.
    
    HFSS - Gain Total
    
-   ![image](https://github.com/KuiLiangLin/HFSS_dipole_antenna/blob/master/HFSS_B_gain_total.jpg)
+   <img src="https://raw.githubusercontent.com/KuiLiangLin/HFSS_dipole_antenna/master/HFSS_B_gain_total.jpg" height="100%" width="100%" >
    
    Anechoic Chamber - Gain Theta
    
-   ![image](https://github.com/KuiLiangLin/HFSS_dipole_antenna/blob/master/chamber_E_theta.jpg)
-   
+    <img src="https://raw.githubusercontent.com/KuiLiangLin/HFSS_dipole_antenna/master/chamber_E_theta.jpg" height="100%" width="100%" >
+  
    Anechoic Chamber - Gain Phi
    
-   ![image](https://github.com/KuiLiangLin/HFSS_dipole_antenna/blob/master/chamber_E_phi.jpg)
+   <img src="https://raw.githubusercontent.com/KuiLiangLin/HFSS_dipole_antenna/master/chamber_E_phi.jpg" height="100%" width="100%" >
    
 
 
